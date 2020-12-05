@@ -4,3 +4,7 @@ Understanding Git
 Learning Git 
 Practicing some commands
 
+Trying to do some real things
+
+Thanks
+
