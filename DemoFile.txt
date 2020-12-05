@@ -1,0 +1,6 @@
+This is the First file
+
+Understanding Git
+Learning Git 
+Practicing some commands
+
